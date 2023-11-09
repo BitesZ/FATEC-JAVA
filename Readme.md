@@ -7,4 +7,12 @@ Linguagem Utilizada: **Java**;
 
 Softwares Utilizados: **Eclipse-IDE (Software Principal)** e **Visual Studio Code** (de vez em quando recorrida).
 
+# Informações e Lógicas
+
+A cada atividade será feito um Release onde disponibilizará um arquivo .zip de sua retrospectiva atividade e terá informações sobre do que se tratam estas atividades e as lógicas utilizadas em cada uma delas.
+
+# Aviso importante
+**A partir dos commit da Atividade 6 pra frente, é recomendado fazer a importação do diretório da Atividade para o Software que estiver utilizando, no caso do Eclipse IDE, basta clicar em import -> general -> selecione o diretório marcado e por fim confirme a importação.**
+
+
 **É importante ressaltar que todos os códigos aqui fazem parte do meu aprendizado, dito isto, não é ideal para uso prático fora do contexto de aprendizado, já que o mesmo, pode estar submetido a erros.**

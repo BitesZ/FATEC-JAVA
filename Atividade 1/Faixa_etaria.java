@@ -13,7 +13,7 @@ public class Faixa_etaria {
         if(resposta < 18) {
         	System.out.println("Você é menor de idade");
         }
-        else if(resposta > 18 && resposta < 60) {
+        else if(resposta >= 18 && resposta < 60) {
         	System.out.println("Você é maior de idade/adulto");
         }
         else if(resposta >= 60) {
